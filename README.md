@@ -130,9 +130,6 @@ urlpatterns = [
     path('',views.prismarea,name="areaofsquareprismroot")
 ]
 ```
-## SERVER SIDE PROCESSING:
-
-
 ## HOMEPAGE:
 
 ![WhatsApp Image 2024-05-05 at 14 26 30_e455039e](https://github.com/thejaswinidhanaraj/MathServer/assets/148514511/dcf85fd1-404e-4876-8066-50ea8fdf08f2)
